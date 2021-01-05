@@ -1,0 +1,28 @@
+.nav{
+
+    width:75%;
+    height:100px;
+    float:right;
+    
+   
+    
+}
+.nav ul{
+    margin-left: 250px;
+    
+    
+
+}
+.nav ul li{
+
+      
+    font-family: 'montserrat',sans-serif;
+    display: inline-block;
+     list-style: none;
+    font-size: 15px;
+  
+    font-weight: bold;
+    line-height:100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+}
